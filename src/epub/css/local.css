@@ -6,6 +6,10 @@
 	text-align: right;
 }
 
+header > [epub|type~="z3998:salutation"]{
+	text-align: initial;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -14,10 +18,6 @@ footer{
 [epub|type~="z3998:salutation"] + p,
 [epub|type~="z3998:letter"] header + p{
 	text-indent: 0;
-}
-
-header > [epub|type~="z3998:salutation"]{
-	text-align: initial;
 }
 
 [epub|type~="z3998:sender"],
