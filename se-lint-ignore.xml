@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="chapter-24.xhtml ">
+	<file path="chapter-24.xhtml">
 		<ignore>
 			<code>t-031</code>
 			<reason>"A B C" are neither graphemes nor phonemes; see SEMoS 8.2.8.3.</reason>
