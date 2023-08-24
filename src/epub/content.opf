@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anthony-trollope/the-claverings</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-08-24T20:50:58Z</dc:date>
+		<meta property="dcterms:modified">2023-08-24T20:50:58Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,18 +44,19 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008112615</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">An aspirational young man hesitates between his wealthy and widowed first love, and his affianced and honest second.</dc:description>
+		<dc:description id="description">An aspirational young man must decide between his wealthy and widowed first love, and his affianced and honest second.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Harry Clavering is an able, ambitious, and attractive young man, son of a country vicar, but also cousin to a baronet. His love for the baronet’s beautiful sister-in-law is at first reciprocated, but then rebuffed as her own ambitions incline her towards marrying a wealthy but personally repellent earl. Harry licks his wounds, and seeks to make his own fortune by training for a career as a civil engineer. While in the home of his new patrons, he meets the daughter of the head of his firm, a new love flourishes, and they become engaged. But the earl dies, and the widow, Harry’s first love, is now free—and also wealthy. Unaware of his new attachment, she seeks help from Harry, wondering whether the spark between them can be rekindled. It now transpires that Harry is also “fickle, vain, easily led, and almost as easily led to evil as to good.”&lt;/p&gt;
-			&lt;p&gt;Like &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Anthony Trollope’s&lt;/a&gt; &lt;a href="https://standardebooks.org/ebooks/anthony-trollope/phineas-finn"&gt;&lt;i&gt;Phineas Finn&lt;/i&gt;&lt;/a&gt;, &lt;i&gt;The Claverings&lt;/i&gt; includes some strong and fully realized female characters. Lady Julia Ongar is the outstanding example here, the seemingly mercenary femme fatale whose conflicting choices, hopes, and spiritual struggles are so acutely portrayed that they prevent her from simply being a stereotypical predator.&lt;/p&gt;
-			&lt;p&gt;Written between the last two &lt;a href="https://standardebooks.org/collections/chronicles-of-barsetshire"&gt;Barchester&lt;/a&gt; books, &lt;i&gt;The Claverings&lt;/i&gt; is among a very few other of Trollope’s works which can claim to be set in Barsetshire. The setting remains a subtle touch here: Harry’s clergyman father is annoyed by Bishop Proudie, the notorious prelate of the later Barchester series.&lt;/p&gt;
+			&lt;p&gt;Harry Clavering is an able, ambitious, and attractive young man, son of a country vicar and cousin to a baronet. His love for the baronet’s beautiful sister-in-law is at first reciprocated, but then rebuffed as her own ambitions incline her towards marrying a wealthy but personally repellent earl. Harry licks his wounds, and seeks to make his own fortune by training for a career as a civil engineer.&lt;/p&gt;
+			&lt;p&gt;While in the home of his new patrons, he meets the daughter of the head of his firm, a new love flourishes, and they become engaged. But the earl dies, and the widow, Harry’s first love, is now free—and also wealthy. Unaware of his new attachment, she seeks help from Harry, wondering whether the spark between them can be rekindled. It now transpires that Harry is also “fickle, vain, easily led, and almost as easily led to evil as to good.”&lt;/p&gt;
+			&lt;p&gt;Like &lt;a href="https://standardebooks.org/ebooks/anthony-trollope"&gt;Trollope’s&lt;/a&gt; &lt;a href="https://standardebooks.org/ebooks/anthony-trollope/phineas-finn"&gt;&lt;i&gt;Phineas Finn&lt;/i&gt;&lt;/a&gt;, &lt;i&gt;The Claverings&lt;/i&gt; includes strong and fully realized female characters. Lady Julia Ongar is the outstanding example here, the seemingly mercenary femme fatale whose conflicting choices, hopes, and spiritual struggles are so acutely portrayed that they prevent her from simply being a stereotypical predator.&lt;/p&gt;
+			&lt;p&gt;Written between the last two &lt;a href="https://standardebooks.org/collections/chronicles-of-barsetshire"&gt;Barchester&lt;/a&gt; books, &lt;i&gt;The Claverings&lt;/i&gt; is among the very few other of Trollope’s works set in Barsetshire. The setting remains a subtle touch here: Harry’s clergyman father is annoyed by Bishop Proudie, the notorious prelate of the later Barchester series.&lt;/p&gt;
 			&lt;p&gt;The Trollope scholar Michael Sadleir grouped &lt;i&gt;The Claverings&lt;/i&gt;, along with &lt;a href="https://standardebooks.org/ebooks/anthony-trollope/doctor-thorne"&gt;&lt;i&gt;Doctor Thorne&lt;/i&gt;&lt;/a&gt; and &lt;i&gt;Sir Harry Hotspur of Humblethwaite&lt;/i&gt;, as Trollope’s “three faultless books.” Of &lt;i&gt;The Claverings&lt;/i&gt; itself, he found it “as surely conceived as any book [Trollope] ever wrote,” marked by “qualities of sure-footed subtlety,” especially in the many and varied acute social observations it contains—from the most intimate and intense private dramas, to more awkward and even amusing public encounters. Like many of Trollope’s books, &lt;i&gt;The Claverings&lt;/i&gt; is “not only readable, but perpetually re-readable.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/15766</dc:source>
 		<dc:source>https://books.google.com/books?id=JEM2AQAAMAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">209249</meta>
+		<meta property="se:reading-ease.flesch">80.41</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Claverings</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_the-claverings</meta>
 		<dc:creator id="author">Anthony Trollope</dc:creator>
@@ -84,6 +85,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
