@@ -46,7 +46,7 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008112615</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>An aspirational young man must decide between his wealthy and widowed first love, and his affianced and honest second.</dc:abstract>
+		<meta property="schema:abstract">An aspirational young man must decide between his wealthy and widowed first love, and his affianced and honest second.</meta>
 		<dc:description>
 			&lt;p&gt;Harry Clavering is an able, ambitious, and attractive young man, son of a country vicar and cousin to a baronet. His love for the baronet’s beautiful sister-in-law is at first reciprocated, but then rebuffed as her own ambitions incline her towards marrying a wealthy but personally repellent earl. Harry licks his wounds, and seeks to make his own fortune by training for a career as a civil engineer.&lt;/p&gt;
 			&lt;p&gt;While in the home of his new patrons, he meets the daughter of the head of his firm, a new love flourishes, and they become engaged. But the earl dies, and the widow, Harry’s first love, is now free—and also wealthy. Unaware of his new attachment, she seeks help from Harry, wondering whether the spark between them can be rekindled. It now transpires that Harry is also “fickle, vain, easily led, and almost as easily led to evil as to good.”&lt;/p&gt;
